@@ -1,7 +1,9 @@
 <h1>Cookie Man</h1>
 <p>Cookie manipulator plugin for Chrome Browser</p>
 
-![image](https://github.com/user-attachments/assets/c4fab561-2f59-4d58-9280-ad06bdff2513) ![image](https://github.com/user-attachments/assets/db8ddc67-587c-4189-bb96-51ddf0d3e6bf)
+![image](https://github.com/user-attachments/assets/abbd0818-392a-44ba-9302-e7b0b50f0d8a) ![image](https://github.com/user-attachments/assets/49082bf2-b217-4b0e-8261-3e25ddf96904)
+
+
 
 <h2>Features</h2>
 
